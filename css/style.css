@@ -19,6 +19,7 @@ body {
   -o-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  text-align: justify;
 }
 
 .fullimage{
@@ -54,7 +55,7 @@ body {
     color: white;
 }
 
-li
+.list-social li
 {
    display:block;
    float:left; 
